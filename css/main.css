@@ -3,7 +3,15 @@
   border: 0;
   padding: 0;
   box-sizing: border-box;
-  font-weight: bold;
+}
+
+.nav {
+  border: 2px solid red;
+  padding: 1rem;
+  height: 10vh;
+}
+.nav__list {
+  text-align: right;
 }
 
 /*# sourceMappingURL=main.css.map */
